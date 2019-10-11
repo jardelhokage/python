@@ -1,0 +1,63 @@
+n1salas =900
+n2salas=480
+n3salas=350
+n4salas=220
+somasalas=n1salas+n2salas+n3salas+n4salas
+xsalas=1641
+ndesalas=53
+x=ndesalas*xsalas
+y=x/somasalas
+print('o numero de salas e aproximadamente :',y)
+// programa 4 questão//
+ 
+n1=0
+n2=1
+n3=2
+n4=3
+n5=4
+n6=5
+n7=6
+r1=n1*6
+r2=n2*6
+r3=n4*6
+r4=n5*6
+r5=n6*6
+r6=n7*6
+print(r1,r2,r3,r4,r5,r6)
+//programa 8 questão//
+
+
+
+
+n1=float(200)
+n2=float(126.80)
+n3=n1-n2
+print(n3)
+a
+
+
+n1=int(1**2)
+print(n1)
+n2=int(2**2)
+print(n2)
+n3=int(3**2)
+print(n3)
+n4=(4**2)
+print(n4)
+n5=45**2
+print(n5)
+//programa 9//
+
+m1=float(1)
+m2=float(5)
+m3=float(10)
+m4=float(25)
+m5=float(50)
+m6=float(100)
+r=m1+m2+m3+m4+m5+m6
+print(r)
+s=1337
+q=s/r
+print(q)
+// questao 6 //
+//
